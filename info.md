@@ -42,8 +42,8 @@ Criar o arquivo webpack.config.js
 
 12 Slide
 00:00:00 1201 Slide Início
-
 00:04:26 1202 Slide Eventos
+
 00:19:14 1203 Slide Atualizar Distâncias
 00:30:53 1204 Slide Touch Events
 00:38:35 1205 Slide Config
