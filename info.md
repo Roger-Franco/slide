@@ -46,8 +46,8 @@ Criar o arquivo webpack.config.js
 00:19:14 1203 Slide Atualizar Distâncias
 00:30:53 1204 Slide Touch Events
 00:38:35 1205 Slide Config
-
 00:54:26 1206 Slide Next e Prev
+
 01:03:37 1207 Slide Resize
 01:14:10 1208 Slide Nav
 01:22:07 1209 Slide Paginação
