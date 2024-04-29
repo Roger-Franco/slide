@@ -49,7 +49,7 @@ Criar o arquivo webpack.config.js
 00:54:26 1206 Slide Next e Prev
 01:03:37 1207 Slide Resize
 01:14:10 1208 Slide Nav
-
 01:22:07 1209 Slide Paginação
+
 01:41:31 1210 Slide Custom Controls
 
